@@ -1,1 +1,1 @@
-# camp-nodejs-boilerplate
+# express-boilerplate
